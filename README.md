@@ -91,6 +91,6 @@ This project is not open for contributions due to the custom license. If you hav
 See [LICENSE](LICENSE) for details. All rights reserved.
 
 ## Author 👤
-Pouriya Parniyan / @pooriyayt
+Pouriya Parniyan / [@pooriyayt](https://github.com/pooriyayt/)
 
 If you find this useful, star the repo! ⭐
